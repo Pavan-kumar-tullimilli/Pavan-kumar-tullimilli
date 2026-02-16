@@ -33,9 +33,9 @@ My work spans building perception systems, large-scale multilingual LLM deployme
 
 ---
 
-# 🧠 Core AI Expertise  
+# 🤖 Core AI Expertise  
 
-## 🤖 Generative AI  
+##  Generative AI  
 
 - LLM Fine-Tuning (PEFT)
 - Multilingual Model Training (Thai & English)
@@ -46,7 +46,7 @@ Deployed fine-tuned LLM systems on multi-node GPU Kubernetes clusters scaling to
 
 ---
 
-## 🧩 Agentic AI  
+##  Agentic AI  
 
 - Autonomous Multi-Agent Systems
 - Agent Monitoring & Evaluation Systems
@@ -58,7 +58,7 @@ Building AI systems that move beyond chatbots into **decision-capable autonomous
 ---
 
 
-# 🔬 Selected AI Projects  
+# 🤖 Selected AI Projects  
 
 ### 🔹 Multilingual LLM Fine-Tuning  
 
