@@ -1,6 +1,6 @@
 # Hi, I'm Pavan Kumar  
 
-** AI Architect | Generative AI | Agentic AI | LLM Fine-Tuning| 2D & 3D Computer Vision **
+**AI Architect | Generative AI | Agentic AI | LLM Fine-Tuning| 2D & 3D Computer Vision**
 
 📍 Hyderabad, India  
 🔗 [LinkedIn](https://www.linkedin.com/in/pavan-kumar-58638b102/)  
@@ -18,16 +18,15 @@ From robotics computer vision to Agentic AI systems, I have spent a decade build
 
 My work spans building perception systems, large-scale multilingual LLM deployments, enterprise GenAI platforms, and autonomous multi-agent architectures.
 
-I specialize in designing AI systems that can **perceive (vision), reason (LLMs), and act (agents)**.
 
 ---
 
 # 🛠 Tech Stack  
 
 **Languages:** Python  
-**Agentic AI:** AutoGen, CrewAI, LangGraph , Google ADK
-**Cloud:** Azure, AWS , Google
-**Infra:** Kubernetes, Docker, NVIDIA GPU Clusters
+**Agentic AI:** AutoGen, CrewAI, LangGraph , Google ADK  
+**Cloud:** Azure, AWS , Google  
+**Infra:** Kubernetes, Docker, NVIDIA GPU Clusters  
 
 **Vision:** OpenCV, YOLO, DeepLabV3+, Open3D  
 **3D:** Blender, Unity 3d, Photogrammetry, Metaverse
@@ -35,7 +34,6 @@ I specialize in designing AI systems that can **perceive (vision), reason (LLMs)
 ---
 
 # 🧠 Core AI Expertise  
----
 
 ## 🤖 Generative AI  
 
