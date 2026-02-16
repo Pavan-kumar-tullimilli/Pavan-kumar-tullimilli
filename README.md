@@ -1,6 +1,6 @@
 # Hi, I'm Pavan Kumar  
 
-**AI Architect | Generative AI | Agentic AI | LLM Fine-Tuning| 2D & 3D Computer Vision **
+** AI Architect | Generative AI | Agentic AI | LLM Fine-Tuning| 2D & 3D Computer Vision **
 
 📍 Hyderabad, India  
 🔗 [LinkedIn](https://www.linkedin.com/in/pavan-kumar-58638b102/)  
