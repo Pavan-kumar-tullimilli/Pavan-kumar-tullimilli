@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Pavan-kumar-tullimilli/Pavan-kumar-tullimilli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+AI Architect specializing in Small Language Models (SLMs) and efficient fine-tuning.
 
-Here are some ideas to get you started:
+## 🧠 Current Focus
+- Fine-tuning SLMs
+- LoRA / QLoRA / PEFT
+- Efficient AI systems
+- Production-grade ML infrastructure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- PyTorch
+- Hugging Face
+- MLOps
+- Cloud (AWS / Azure)
+
+## 🌱 Currently Exploring
+- Edge AI deployment
+- Quantization
+- Domain adaptation
+
+## 📫 Let's Connect
+Open to collaboration on AI systems & SLM research.
